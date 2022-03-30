@@ -1,0 +1,15 @@
+{
+    "item.coalchunks.small_coal_chunk": "Small Coal Chunk",
+    "item.coalchunks.small_charcoal_chunk": "Small Charcoal Chunk",
+    "item.coalchunks.medium_coal_chunk": "Medium Coal Chunk",
+    "item.coalchunks.medium_charcoal_chunk": "Medium Charcoal Chunk",
+    "item.coalchunks.large_coal_chunk": "Large Coal Chunk",
+    "item.coalchunks.large_charcoal_chunk": "Large Charcoal Chunk",
+
+    "tooltip.coalchunks.small_coal_chunk": "\u00A7eSmelts 1 Item\u00A7r",
+    "tooltip.coalchunks.small_charcoal_chunk": "\u00A7eSmelts 1 Item\u00A7r",
+    "tooltip.coalchunks.medium_coal_chunk": "\u00A7eSmelts 2 Items\u00A7r",
+    "tooltip.coalchunks.medium_charcoal_chunk": "\u00A7eSmelts 2 Items\u00A7r",
+    "tooltip.coalchunks.large_coal_chunk": "\u00A7eSmelts 4 Items\u00A7r",
+    "tooltip.coalchunks.large_charcoal_chunk": "\u00A7eSmelts 4 Items\u00A7r"
+}

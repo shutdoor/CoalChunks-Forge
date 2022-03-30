@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "coalchunks:item/medium_coal_chunk"
+  }
+}

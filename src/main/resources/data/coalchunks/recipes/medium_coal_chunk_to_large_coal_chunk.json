@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "large_coal_chunk",
+  "ingredients": [
+    {
+      "item": "coalchunks:medium_coal_chunk"
+    },
+    {
+      "item": "coalchunks:medium_coal_chunk"
+    }
+  ],
+  "result": {
+    "item": "coalchunks:large_coal_chunk"
+  }
+}

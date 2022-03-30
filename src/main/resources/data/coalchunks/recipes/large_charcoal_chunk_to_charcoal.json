@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coalchunks:large_charcoal_chunk"
+    },
+    {
+      "item": "coalchunks:large_charcoal_chunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal"
+  }
+}
