@@ -1,0 +1,12 @@
+{
+    "item.coalchunks.small_coal_chunk": "小煤炭块",
+    "item.coalchunks.small_charcoal_chunk": "小木炭块",
+    "item.coalchunks.medium_coal_chunk": "中煤炭块",
+    "item.coalchunks.medium_charcoal_chunk": "中木炭块",
+    "item.coalchunks.large_coal_chunk": "大煤炭块",
+    "item.coalchunks.large_charcoal_chunk": "大木炭块",
+
+    "tooltip.coalchunks.small_chunk": "\u00A7e烧炼1个物品\u00A7r",
+    "tooltip.coalchunks.medium_chunk": "\u00A7e烧炼2个物品\u00A7r",
+    "tooltip.coalchunks.large_chunk": "\u00A7e烧炼4个物品\u00A7r"
+}
