@@ -2,7 +2,9 @@ package com.shutdoor.coalchunks.items;
 
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.crafting.IRecipeType;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
@@ -17,13 +19,13 @@ public class FuelItem extends Item {
     public final TranslationTextComponent hoverText;
 
     public FuelItem(Properties properties, int burn, TranslationTextComponent text) {
-        super(properties);
+        super(properties.tab(ItemGroup.TAB_MISC));
         this.burnTime = burn;
         this.hoverText = text;
     }
 
     @Override
-    public int getBurnTime(ItemStack itemStack) {
+    public int getBurnTime(ItemStack itemStack, @Nullable IRecipeType<?> recipeType) {
         return burnTime;
     }
 
